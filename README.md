@@ -1,2 +1,2 @@
-# Minter_SmartContract
-Designed and developed a smart contract on Solidity
+# Smart Contracts
+Designed and developed smart contracts on Solidity
